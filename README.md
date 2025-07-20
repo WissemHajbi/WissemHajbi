@@ -1,3 +1,4 @@
+```yaml
 name: Wissem Hajbi
 located_in: Sfax, Tunisia
 current_job: Software Engineer & Technical Founder
@@ -37,3 +38,4 @@ technical_background:
   - Built multiple full-stack apps (Next.js, Nest.js, .NET, Django)
 
 currently_learning: ["Marketing & Growth Strategies", "Sales & Customer Acquisition", "Product-Market Fit & Validation", "Leadership & Team Management"]
+```
