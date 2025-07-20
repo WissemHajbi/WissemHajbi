@@ -1,4 +1,1 @@
-- Based in **Sfax, Tunisia**, with a strong background in software engineering and app development :contentReference[oaicite:1]{index=1}  
-- Built engaging apps, including **Sylas**, a Kotlin-based interactive League of Legends character showcase :contentReference[oaicite:2]{index=2}  
-- Active on GitHub (30+ repositories) and ranked among Tunisia’s most active contributors over the past year :contentReference[oaicite:3]{index=3}  
-- Open to new collaborations and roles — feel free to connect with me!
+
