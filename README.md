@@ -2,7 +2,7 @@
 name: Wissem Hajbi
 location: Sfax, Tunisia
 role: Founder & Software Engineer  
-startup: [Contactie](https://contactie.com/)
+startup: https://contactie.com
 growth: Ongoing learning through open-source, freelancing, and team-based projects
 
 technical_background:
