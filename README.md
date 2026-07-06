@@ -1,19 +1,14 @@
 ```yaml
 name: Wissem Hajbi
 location: Sfax, Tunisia
-role: Software Engineer & Technical Founder
-startup: https://idigics.com/home
+role: Founder & Software Engineer  
+startup: [Contactie](https://contactie.com/)
 growth: Ongoing learning through open-source, freelancing, and team-based projects
 
 technical_background:
   - Led real-world client production projects
-  - Worked with Dockerized environments and GitHub CI/CD
   - Mentored junior developers in live team environments
-  - Built full-stack apps (Next.js, Nest.js, .NET, Django)
-
-currently_learning:
-  - C
-  - Vim
+  - Built and maintained full-stack apps
 
 ```
 | Area                             | Projects / Links                                                                                                                                                                                                             | Technologies Used                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
